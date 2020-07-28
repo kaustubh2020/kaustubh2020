@@ -14,3 +14,6 @@ I'm Kaustubh Jaiswal <img src="https://github.com/kaustubh2020/kaustubh2020/blob
 </p>
 <p align="center">I spend 💲 my time ⏳ experimenting ⚗ and researching 😷 the latest technology 🤖. <br>I pledge 🙏🏻 to be a lifelong 👴🏻 learner 📚; it empowers 💪🏻 me.<br> One of my passions 😎 is Photography 📷 , I love 💛 to shoot and edit 🎨 photos.<br> I also love 💙 writing ✍🏻 and giving 🙌🏻 talks 🗣 to share 🤝🏻 my thoughts 💭 and what I learn 👨🏻‍🎓.</p>
 <p align="center"><img src="https://github.com/kaustubh2020/kaustubh2020/blob/master/nothing%20productive.gif?raw=true" /></p>
+  <p align="center">
+  <img height="20" src="https://profile-counter.glitch.me/kaustubh2020/count.svg" />
+</p>
