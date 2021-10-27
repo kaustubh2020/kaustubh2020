@@ -9,7 +9,7 @@
 ## Weapons I use 💣
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh2020&theme=buefy)
 
-### My Armor 🛡
+## My Armor 🛡
 * ReactJS
 * MongoDB
 * SQL, Microsoft SQL Server
